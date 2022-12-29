@@ -1,5 +1,8 @@
 _repo: The-Arctic-regions-and-the-northern-whale-fishery_69389
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69389-h/images/cover.jpg
 creator:
   author:
     agent_name: Scoresby, William
@@ -14,6 +17,8 @@ description: '[Contains], in an abridged and somewhat modified form, the substan
   on the Hydrographical Survey of the Greenland Sea. [...] Some few materials have
   also been collated from the valuable papers by the same author contributed to the
   "Edinburgh Philosophical Journal."--Preface'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69389#The-Arctic-regions-and-the-northern-whale-fishery
 gutenberg_issued: '2022-11-20'
 identifiers:
   gutenberg: '69389'
